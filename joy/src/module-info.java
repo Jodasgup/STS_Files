@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author JOY
+ *
+ */
+module joy {
+}
