@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author JOY
- *
- */
-module joy {
-}
